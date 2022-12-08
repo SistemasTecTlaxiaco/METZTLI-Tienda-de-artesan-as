@@ -1,0 +1,15 @@
+{
+	"name": "metztli",
+	"version": "1.0.0",
+	"description": "TIENDA WEB 3.0",
+	"main": "index.js",
+	"scripts": {
+	  "test": "asp"
+	},
+	"author": "METZTLI DEVELOPERS",
+	"license": "MIT",
+	"devDependencies": {
+	  "near-sdk-as": "^3.2.3"
+	}
+  }
+  
